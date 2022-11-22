@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Lau Kwun Hang. I am a computer science studnet in CUHK. 😆
+## I am Lau Kwun Hang. I am a year3 computer science studnet in CUHK. 😆
 <!--
 **kwunhang/kwunhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
