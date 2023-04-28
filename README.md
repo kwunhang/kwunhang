@@ -1,6 +1,6 @@
-## Hi there 👋
-# I am Lau Kwun Hang. I am a year3 computer science student in CUHK.
-# I am passionate about learning the modern technologies.
+# Hi there 👋
+### I am Lau Kwun Hang. I am a year3 computer science student in CUHK.
+### I am passionate about learning the modern technologies.
 Welcome to checkout my recently project: \
 [Teddit](https://github.com/FrankieSkate/CSCI3100_GrpA2_Teddit) (a twitter clone group project with MERN stack) \
 [STAT4012Project](https://github.com/NiCkWKT/STAT4012-Project) (group project with comparing different model in the mission of food recognition) \
