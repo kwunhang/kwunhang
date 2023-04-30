@@ -3,7 +3,7 @@
 ### I am passionate about learning the modern technologies.
 Welcome to checkout my recently project: \
 [Teddit](https://github.com/FrankieSkate/CSCI3100_GrpA2_Teddit) (a twitter clone group project with MERN stack) \
-[STAT4012Project](https://github.com/NiCkWKT/STAT4012-Project) (group project with comparing different model in the mission of food recognition) 
+[STAT4012Project](https://github.com/NiCkWKT/STAT4012-Project) (group project with apply different neural network models and several machine learning tools in the mission of food classfication) 
 <!--
 **kwunhang/kwunhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
